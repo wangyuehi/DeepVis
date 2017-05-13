@@ -10,3 +10,8 @@ Metric for distances was correlation coefficients.
 * Interactions
   * Use slider to change threshold. Distances under threshold were merged together to indicate closer relation.
   * Mouse over intersections to highlight specific attrbutes.
+
+### Libraries
+
+processing version 2.2.1, controlP5
+
